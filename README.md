@@ -42,13 +42,13 @@
 
 ## Operating Systems
 
-[Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user#syllabus)
+* [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user#syllabus)
 
 ## Python
 
-[Udemy-Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
+* [Udemy-Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 
-[Udemy- Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
+* [Udemy- Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
 
 ## Websites with Hands On Labs and Challenges
 
