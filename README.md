@@ -22,7 +22,7 @@
 
 ## The Basics
 
-* [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security#syllabus)
+* [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security)
 
 * [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services#syllabus)
 
