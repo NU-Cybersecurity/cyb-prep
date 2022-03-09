@@ -28,7 +28,7 @@
 
 * [Cybrary - Intro to IT & Cybersecurity](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
 
-* [Cybrary - Comptia Security+](https://www.cybrary.it/course/comptia-security-plus/)
+* [Cybrary - CompTIA Security+](https://www.cybrary.it/course/comptia-security-plus/)
 
 * [LinkedIN Learning - IT Security Foundations: Core Concepts](https://www.linkedin.com/learning/it-security-foundations-core-concepts-2/tech-savvy-tech-safe)
 
