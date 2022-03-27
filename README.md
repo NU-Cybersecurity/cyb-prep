@@ -19,7 +19,8 @@
 * [How to Be an Ethical Hacker in 2022](https://www.youtube.com/watch?v=lhz0-qAQlBM)
 
 * [Cyberseek](https://www.cyberseek.org) - Job and career data. 
-* 
+
+* [The Cybersecurity career and job hunting guide](https://www.cyberhuntingguide.net/)
 
 ## The Basics
 
