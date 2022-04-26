@@ -38,6 +38,10 @@
 
 * [SOC Analyst Study Guide](https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7?v=570aca319ed34b3da252ffb5a74ae698) 
 
+* [Simply Cyber](https://www.simplycyber.io/) 
+
+* [Core SOC Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
+
 ## Networking
 
 * [LinkedIn LearningCompTIA Network(N10-007) Cert Prep: 1 Understanding Networks](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-1-understanding-networks/what-is-a-model)
