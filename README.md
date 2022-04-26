@@ -36,7 +36,7 @@
 
 * [Blue Teams Academy](https://www.blueteamsacademy.com/)
 
-* [SOC Analyst Stufy Guide](https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7?v=570aca319ed34b3da252ffb5a74ae698) 
+* [SOC Analyst Study Guide](https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7?v=570aca319ed34b3da252ffb5a74ae698) 
 
 ## Networking
 
